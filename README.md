@@ -1,2 +1,2 @@
 # Bruteforce-Guidance
-Hi guys i wanna learn bruteforcing.
+Hi guys i wanna learn bruteforcing i wanna bruteforce 3rd party website they hacked my account i wanna brute force my account the site is an 3rd party site first there is user name and then password below is forget password when you click on forget password new page appears to enter your email address after that new page appears with three blanks first is to enter recovery code and other blanks are to confirm new password please guide me anyone. plzzzzzzzzzzzzzzz
